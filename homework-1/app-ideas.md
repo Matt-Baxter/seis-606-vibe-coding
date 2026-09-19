@@ -6,7 +6,7 @@ Six web applications I would be interested in building in this course.
 
 ## 1. Superintelligence Homepage
 
-A centralized, continuously updated home for what is being written and predicted about artificial
+A centralized, continuously updated home for resources on what is being written and predicted about artificial
 superintelligence (ASI) and recursive self-improvement (RSI). Material on this subject is scattered
 across many research papers, news coverage, essays, podcasts, and video, with no single place
 that consolidates it. Collecting and dating all of these sources in an organized homepage dedicated
@@ -45,7 +45,7 @@ generic rendering. The value there is narrower than it first appears, but two ca
 justify it: skin tone, which meaningfully changes how ink reads, and existing tattoos,
 which constrain what will work alongside them.
 
-## 4. That's a Great Question
+## 4. That's a Great Question (Generating the "Right" Question)
 
 Begin with a prompt, a seed idea, or a question, and receive the most insightful and
 critical questions worth asking in response. Any returned question can then be expanded
