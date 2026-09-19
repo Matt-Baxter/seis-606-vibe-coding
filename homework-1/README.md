@@ -19,8 +19,8 @@
 
 - [x] **1. GitHub account created** — [@Matt-Baxter](https://github.com/Matt-Baxter)
 - [x] **2a. Public repository created** for the app ideas
-- [ ] **2b. List of 5–10 app ideas written** — see [`app-ideas.md`](app-ideas.md)
-- [ ] **2c. Ideas committed and pushed** to the public repo
+- [x] **2b. List of 5–10 app ideas written** — see [`app-ideas.md`](app-ideas.md)
+- [x] **2c. Ideas committed and pushed** to the public repo
 - [ ] **3a. Repository verified public** — open the repo URL in an incognito window while logged out
 - [ ] **3b. Secondary `@stthomas.edu` email added** at https://github.com/settings/emails *(recommended, not required)*
 - [ ] **3c. Submitted to the instructor** — repo link + GitHub account email (see below)
