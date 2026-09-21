@@ -45,7 +45,7 @@ generic rendering. The value there is narrower than it first appears, but two ca
 justify it: skin tone, which meaningfully changes how ink reads, and existing tattoos,
 which constrain what will work alongside them.
 
-## 4. That's a Great Question (Generating the "Right" Question)
+## 4. That's a Great Question (Finding the "Right" Question(s))
 
 Begin with a prompt, a seed idea, or a question, and receive the most insightful and
 critical questions worth asking in response. Any returned question can then be expanded
