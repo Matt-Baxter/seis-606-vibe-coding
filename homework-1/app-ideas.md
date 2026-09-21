@@ -52,10 +52,11 @@ critical questions worth asking in response. Any returned question can then be e
 into further questions, letting a user follow a line of inquiry deeper rather than
 stopping at a first answer.
 
-What makes a question the *right* question is deliberately left open, because it is
+What makes a question the *right* question is deliberately left open-ended at this point, because it is
 context-dependent — a good question is relevant, revealing, and perhaps uncomfortable, and
-what qualifies differs across technical, social, and philosophical settings. That
-ambiguity is the interesting part of the project rather than a gap in it, and the
+what qualifies differs across technical, social, and philosophical settings. 
+Key words include adjectives like insightful, critical, direct, quantitative, etc., but a good question may not be limited to these ideas. 
+That ambiguity is the interesting part of the project rather than a gap in it, and the
 application would be a way to explore which properties actually make a question valuable.
 
 ## 5. Date Idea Generator
