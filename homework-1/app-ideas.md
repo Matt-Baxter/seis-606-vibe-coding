@@ -29,7 +29,7 @@ underlying data, and proper handling of edge cases — most obviously rejecting 
 between fighters in incompatible weight classes.
 
 The more important improvement would be transparency. My earlier version is effectively a black
-box: it produces a number I cannot explain beyond a superficial level, even as its author. This version would be 
+box: it produces a number I cannot explain beyond a superficial level. This version would be 
 built so that the code written is more understandable and traceable, both because that
 makes it a better tool, and because understandable code is a standard this course expects.
 
@@ -38,7 +38,7 @@ makes it a better tool, and because understandable code is a standard this cours
 Describe a tattoo concept and see it rendered visually, with variations across styles —
 black and grey versus color, traditional versus neo-traditional, and so on. The problem
 it addresses is the gap between an idea in your head and something concrete enough to
-discuss with an artist, which is the hardest part of commissioning a tattoo.
+discuss with an artist, which is the hardest part of getting a new tattoo.
 
 A natural extension would be uploading a photo of your own body rather than using a
 generic rendering. The value there is narrower than it first appears, but two cases
@@ -53,7 +53,7 @@ into further questions, letting a user follow a line of inquiry deeper rather th
 stopping at a first answer.
 
 What makes a question the *right* question is deliberately left open-ended at this point, because it is
-context-dependent — a good question is relevant, revealing, and perhaps uncomfortable, and
+context-dependent — a good question is relevant, revealing, and consequential, and
 what qualifies differs across technical, social, and philosophical settings. 
 Key words include adjectives like insightful, critical, direct, quantitative, etc., but a good question may not be limited to these ideas. 
 That ambiguity is the interesting part of the project rather than a gap in it, and the
